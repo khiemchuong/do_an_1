@@ -1,0 +1,18 @@
+li {
+    list-style-type: none; /* Xóa các dấu đầu dòng */
+}
+#giua{
+    text-align: center;
+    display: flex;
+}
+
+img{
+    margin-top: 15px;
+}
+h6 svg{
+    color: coral;
+}
+
+h5 svg{
+    color: rgb(57, 56, 56);
+}
